@@ -8,6 +8,8 @@
 // @require      http://code.jquery.com/jquery.min.js
 // @grant       GM_getValue
 // @grant       GM_setValue
+// @downloadURL https://raw.githubusercontent.com/mstg/invertpls/master/invert.js
+// @updateURL https://raw.githubusercontent.com/mstg/invertpls/master/invert.js
 // ==/UserScript==
 
 $(document).ready(function() {
